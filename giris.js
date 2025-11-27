@@ -1,0 +1,1 @@
+"Giris ekrani kodlari" 
